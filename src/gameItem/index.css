@@ -1,0 +1,13 @@
+.GameImg {
+  height: 120px;
+  width: 200px;
+  border-radius: 50px;
+}
+
+.listItem {
+  list-style: none;
+}
+
+.buttons {
+  background-color: transparent;
+}
